@@ -1,6 +1,7 @@
 # Assignment 03
 # Question 1 : Ganti nilai variabel NIM dan jalankan kode
-```import html
+```
+import html
 char1 = html.unescape('&#x25FB;')
 char2 = html.unescape('&#x25FC;')
 ```
