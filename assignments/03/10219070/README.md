@@ -4,6 +4,8 @@
 import html
 char1 = html.unescape('&#x25FB;')
 char2 = html.unescape('&#x25FC;')
+```
+```
 NIM = '10219070'
 for x in NIM:
   n = int(x, 10)
@@ -20,11 +22,13 @@ Traceback (most recent call last):
 NameError: name 'char' is not defined
 ```
 # question 2 : modifikasi kode dengan s += char1 dan jalankan hasil nya
-```import html
+```
+import html
 char1 = html.unescape('&#x25FB;')
 char2 = html.unescape('&#x25FC;')
 ```
-```NIM = '10219070'
+```
+NIM = '10219070'
 for x in NIM:
   n = int(x, 10)
   s = ''
@@ -44,11 +48,13 @@ for x in NIM:
 0:
 ```
 # question 3 : modifikasi kode dengan s += char2 dan jalankan hasil nya
-```import html
+```
+import html
 char1 = html.unescape('&#x25FB;')
 char2 = html.unescape('&#x25FC;')
 ```
-```NIM = '10219070'
+```
+NIM = '10219070'
 for x in NIM:
   n = int(x, 10)
   s = ''
