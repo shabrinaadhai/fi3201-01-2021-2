@@ -4,7 +4,6 @@
 ```import html
 char1 = html.unescape('&#x25FB;')
 char2 = html.unescape('&#x25FC;')
-```
 ```NIM = '10219070'
 for x in NIM:
   n = int(x, 10)
