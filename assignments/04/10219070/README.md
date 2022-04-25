@@ -87,7 +87,7 @@ t = 0.01*t
 y = np.sin(np.pi * (x-t))
 ```
 dan hasil berkas gifnya adalah \
-![gif file from simulation wave to right](Gelombangmerambatkekanan.gif)
+![gif file from simulation wave to right](https://github.com/JonathanAdriel/fi3201-01-2021-2/blob/main/assignments/04/10219020/Gelombang%20Merambat%20ke%20Kanan.gif)
 
 
 ## question 3
