@@ -100,7 +100,7 @@ t = 0.01*t
 y = np.sin(np.pi * (x+t))
 ```
 dan hasil berkas gifnya adalah \
-![gif file from simulation wave to left](Gelombang_Merambat_ke_Kiri.gif)
+![gif file from simulation wave to left](https://github.com/JonathanAdriel/fi3201-01-2021-2/blob/main/assignments/04/10219020/Gelombang%20Merambat%20ke%20Kiri.gif)
 
 
 ## question 4
@@ -113,5 +113,5 @@ t = 0.01*t
 y = np.sin(np.pi * x) * np.cos(np.pi * t)
 ```
 dan hasil berkas gifnya adalah \
-![gif file from simulation wave stationary](Gelombang_Stasioner.gif)
+![gif file from simulation wave stationary](https://github.com/JonathanAdriel/fi3201-01-2021-2/blob/main/assignments/04/10219020/Gelombang%20Stasioner.gif)
 
